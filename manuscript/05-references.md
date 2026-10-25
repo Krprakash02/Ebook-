@@ -22,3 +22,13 @@ Access date for all entries: 24 October 2026.
 | Masked Aadhaar guidance (Ch. 40) | UIDAI | Not yet researched. |
 | "Digital arrest" scam advisories (Ch. 41) | MHA / I4C / CERT-In advisories | Not yet researched. |
 | Platform-specific instructions (Android/iOS passkeys, Find My Device, etc.) | Google/Apple official documentation | Not yet researched. |
+
+## Added with Part I (chapters 2–5)
+
+| # | Source | Publisher | URL | Status | Used in |
+|---|---|---|---|---|---|
+| 7 | "Who, What & Why" (about Have I Been Pwned) | Have I Been Pwned | https://www.haveibeenpwned.com/About | SEARCH-SEEN | Ch. 3 |
+| 8 | "CISA Releases Guidance on Phishing-Resistant and Numbers Matching Multifactor Authentication" (Oct 2022 fact sheets) | CISA (bulletin) | https://content.govdelivery.com/accounts/USDHSCISA/bulletins/3355d59 | SEARCH-SEEN (bulletin title only; the "SMS/voice weakest" wording came from secondary summaries — see V-09) | Ch. 4 |
+| 9 | NIST guidance on phishing-resistant authenticators (Feb 2024) | NIST | https://www.nist.gov/media/634876 | SEARCH-SEEN | Ch. 4 |
+| 10 | "Passkeys for your Google account: what, where, how, and why" | Kaspersky (secondary) | https://www.kaspersky.co.in/blog/how-to-set-up-passkeys-in-google-account/26594/ | SEARCH-SEEN. **Replace with FIDO Alliance and Google/Apple official docs.** | Ch. 4 |
+| 11 | "Google's Password Manager now warns about compromised accounts" | BleepingComputer (secondary) | https://www.bleepingcomputer.com/news/google/googles-password-manager-now-warns-about-compromised-accounts | SEARCH-SEEN. **Replace with Google's own help page.** | Ch. 3 |

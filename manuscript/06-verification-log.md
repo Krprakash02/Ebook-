@@ -17,3 +17,16 @@ Honest status of every external claim. **Nothing in this log has been verified b
 2. Real incidents are `DOCUMENTED INCIDENT [n]`; invented stories are `HYPOTHETICAL EXAMPLE`.
 3. Any helpline, portal, circular, or setting is re-checked on the day of final export.
 4. A human reviewer signs off each chapter before the "reviewed" label is used anywhere.
+
+## Added with Part I
+
+| ID | Claim (where used) | Evidence seen | Risk if wrong | Action before publication |
+|---|---|---|---|---|
+| V-08 | Have I Been Pwned is a free service by Troy Hunt that reports which known breaches included an email address (Ch. 3) | HIBP About page and encyclopedia entries in search results | Low | Open the page; confirm wording and that the service is still free and operating. |
+| V-09 | CISA described SMS/voice codes as among the weakest MFA forms and recommended FIDO/WebAuthn phishing-resistant MFA (Ch. 4) | Bulletin title plus secondary summaries (Bricker, Infosecurity, Security Boulevard); fact sheets dated Oct 2022 | Medium | Read CISA's fact sheet itself; check whether newer guidance exists. |
+| V-10 | NIST (Feb 2024) says FIDO authenticators are the most common widely available phishing-resistant authenticators (Ch. 4 table) | Search summary only | Medium | Read the NIST document. |
+| V-11 | Passkeys replace passwords using device-held private keys and biometric/PIN unlock (Ch. 4) | Kaspersky/Malwarebytes only | Medium | Cite FIDO Alliance and platform vendors' docs. |
+| V-12 | Google Password Manager has a "Password Checkup" (Ch. 3) | 2019-era news coverage | Medium (features and names change) | Verify on Google's help pages; check Apple/Android equivalents. |
+| V-13 | NIST 800-63B-4: 15-character minimum for password-only logins (Ch. 2); discourages forced periodic changes (Ch. 2) | Summary quoting the official text for the 15-character minimum; periodic-change wording seen only in secondary sources | Medium | Read the final publication; adjust wording to exact SHALL/SHOULD language. |
+| V-14 | General recommendations stated without citation: use passphrases of 4+ unrelated words generated randomly; keep a written note at home rather than carried; family-sharing/profile features instead of sharing logins; free built-in password managers exist (Ch. 2, 5) | Common security practice; no source retrieved | Low–Medium | Find supporting official guidance or label as author's recommendation. |
+| V-15 | Fictional characters in Ch. 1–5 are not real people; "Dhoni", "Chennai Super Kings" appear only as fandom references in a fictional example (Ch. 2) | n/a | Low (brand/person names) | Consider replacing with a generic team to avoid any implied association. |
