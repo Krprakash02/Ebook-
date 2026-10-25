@@ -4,7 +4,7 @@
 
 **Working title:** 50 Ways You're Making Yourself Hackable
 **Subtitle:** Everyday Cybersecurity Mistakes, Hidden Digital Risks, and Simple Ways to Protect Yourself Online
-**Author:** [AUTHOR NAME — placeholder]
+**Author:** Prakash Kumar (2026)
 
 ---
 
@@ -157,8 +157,8 @@ Length target: 400–600 words. If a safety step needs more room, take it.
 
 ## 6. Decisions needed from the author
 
-1. **Author name** and publication year for the copyright page.
-2. **English spelling:** Indian/British (e.g. *judgement*, *organisation*) or American? Currently drafting in British/Indian spelling.
+1. ~~Author name and publication year~~ — **Decided:** Prakash Kumar, 2026.
+2. ~~English spelling~~ — **Decided:** Indian English (British-style spelling, e.g. *judgement*, *organisation*), used consistently.
 3. **Hindi/regional editions** later? (Affects how idioms and examples are written.)
 4. **Whether to disclose AI assistance.** Many publishing platforms require it; check the rules of wherever you publish.
 5. **Human reviewer:** ideally someone with security experience should review before sale.

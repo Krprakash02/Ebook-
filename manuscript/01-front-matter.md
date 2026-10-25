@@ -2,15 +2,15 @@
 
 ## Everyday Cybersecurity Mistakes, Hidden Digital Risks, and Simple Ways to Protect Yourself Online
 
-**[AUTHOR NAME]**
+**Prakash Kumar**
 
 <div style="page-break-after: always;"></div>
 
 ## Copyright
 
-Copyright © [YEAR] [AUTHOR NAME]. [RIGHTS STATEMENT — to be completed by the author, e.g. "All rights reserved."]
+Copyright © 2026 Prakash Kumar. [RIGHTS STATEMENT — to be completed by the author, e.g. "All rights reserved."]
 
-First edition: [MONTH YEAR]
+First edition: [MONTH] 2026
 
 [ISBN / PUBLISHER DETAILS — optional placeholders]
 
